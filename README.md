@@ -5,6 +5,7 @@
 
 HTML5 Boilerplate is a professional front-end template for building
 fast, robust, and adaptable web apps or sites.
+HTML5 표준문서는 빠르고, 적응력이 뛰어난 웹 앱이나 사이트를 구축하기위한 전문 프런트 엔드 템플릿입니다.
 
 This project is the product of many years of iterative development and
 combined community knowledge. It does not impose a specific development
